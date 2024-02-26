@@ -12,6 +12,5 @@ class Cocktail extends Model
     protected $fillable = [
         'name',
         'img_url',
-        'category_id'
     ];
 }
